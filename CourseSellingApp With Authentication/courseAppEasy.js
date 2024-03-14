@@ -54,7 +54,7 @@ app.post('/admin/courses', adminAuthentication, (req, res) => {
   course.id = Date.now(); // use timestamp as course ID
   COURSES.push(course);
   res.json({ message: 'Course created successfully', courseId: course.id });
-});
+});-
 
 app.put('/admin/courses/:courseId', adminAuthentication, (req, res) => {
   const courseId = parseInt(req.params.courseId);
