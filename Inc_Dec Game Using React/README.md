@@ -1,8 +1,6 @@
-# React + Vite
+# INC DEC GAME
+1. If we clik on the Increase button then it will increase the value by 1.<br>
+2. If we click on the Decrease button then it will decrease the value by 1.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/AJITKUMAR130012/JavaScript/assets/60688738/c97c7c08-9c6f-4176-8339-3ef91d9e815a)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
